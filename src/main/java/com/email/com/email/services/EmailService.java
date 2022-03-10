@@ -22,6 +22,6 @@ public class EmailService {
         properties.put("mail.smtp.host",host);
         properties.put("mail.smtp.port","456");
         properties.put("mail.smtp.sslenable","true");
-        properties.put("mail.smtp.")
+        
     }
 }
